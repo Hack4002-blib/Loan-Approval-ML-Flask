@@ -1,0 +1,11 @@
+Applicant_ID,Income ($),Credit Score,Loan Amount ($),Loan Term (Months),Employment Type,Debt-to-Income Ratio (%),Previous Defaults,"Loan Approved (Yes=1, No=0)"
+101,50000,720,15000,36,Salaried,25,No,1
+102,30000,650,10000,48,Self-Employed,35,Yes,0
+103,75000,800,20000,24,Salaried,20,No,1
+104,40000,600,12000,60,Salaried,40,Yes,0
+105,90000,750,25000,36,Business Owner,22,No,1
+106,20000,550,5000,48,Unemployed,50,Yes,0
+107,65000,780,18000,30,Salaried,28,No,1
+108,55000,710,16000,48,Self-Employed,30,No,1
+109,38000,590,10000,60,Salaried,38,Yes,0
+110,85000,770,22000,24,Business Owner,23,No,1
